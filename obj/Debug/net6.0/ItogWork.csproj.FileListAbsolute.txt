@@ -1,0 +1,15 @@
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\bin\Debug\net6.0\ItogWork.exe
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\bin\Debug\net6.0\ItogWork.deps.json
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\bin\Debug\net6.0\ItogWork.runtimeconfig.json
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\bin\Debug\net6.0\ItogWork.dll
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\bin\Debug\net6.0\ItogWork.pdb
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.csproj.AssemblyReference.cache
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.AssemblyInfoInputs.cache
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.AssemblyInfo.cs
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.csproj.CoreCompileInputs.cache
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.dll
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\refint\ItogWork.dll
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.pdb
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ItogWork.genruntimeconfig.cache
+C:\Users\Олег\OneDrive\Рабочий стол\ItogWork\ItogWork\obj\Debug\net6.0\ref\ItogWork.dll
